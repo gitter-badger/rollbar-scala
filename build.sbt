@@ -6,7 +6,7 @@ version := "1.0"
 
 description := "Notifier library for integrating Scala apps with the Rollbar service."
 
-scalaVersion := "2.10.4"
+scalaVersion := "2.11.6"
 
 val slf4jVersion = "1.7.12"
 val dispatchVersion = "0.11.2"
